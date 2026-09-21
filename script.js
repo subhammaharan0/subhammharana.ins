@@ -1,4 +1,4 @@
-```javascript
+
 /* =========================
    MOBILE MENU
 ========================= */
@@ -57,4 +57,3 @@ document.addEventListener("click", function(event){
     }
 
 });
-```
